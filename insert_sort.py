@@ -6,6 +6,7 @@ for i in range(1,10,1):
     data.append(random.randint(1,100))
 print('Unsorted array is: ', data)
 
+# get one value from array and compare with each item before it
 for j in range(1, len(data)):
     key = data[j]
     i = j - 1
@@ -15,5 +16,3 @@ for j in range(1, len(data)):
     data[i + 1] = key
 
 print('Sorted array is: ', data)
-    
-

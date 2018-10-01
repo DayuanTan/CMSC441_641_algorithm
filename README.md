@@ -6,9 +6,6 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 # 1. sorting
 
 
-
-
-
 <table>
 <tr>
     <th>Time</th>

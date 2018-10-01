@@ -1,5 +1,4 @@
 
-
 # CMSC441_algorithm
 
 This is a private place where I record my review, thinking and reorganizaiton for "Algorithm" course. 
@@ -19,12 +18,11 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 
 <tr>
     <td rowspan = "2">Sorting Algorithms</td>
-    <td>Insert Sort (sort in place)</td>
+    <td rowspan = "2">Insert Sort (sort in place)</td>
     <td>Merge Sort</td>
 </tr>
 
 <tr>
-    <td></td>
     <td>Heap Sort (sort in place)</td>
 </tr>
 

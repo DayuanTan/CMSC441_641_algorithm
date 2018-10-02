@@ -14,7 +14,7 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 </tr>
 
 <tr>
-    <td rowspan = "2">Sorting Algorithms</td>
+    <th rowspan = "3">Sorting Algorithms</th>
     <td rowspan = "2">Insert Sort (sort in place)</td>
     <td>Merge Sort</td>
 </tr>
@@ -23,5 +23,9 @@ This is a private place where I record my review, thinking and reorganizaiton fo
     <td>Heap Sort (sort in place)</td>
 </tr>
 
+<tr>
+    <td>Quick Sort (Worst)</td>
+    <td>Quick Sort (Avg) (sort in place)</td>
+</tr>
 
 </table>

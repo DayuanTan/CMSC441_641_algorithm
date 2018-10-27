@@ -1,7 +1,17 @@
 
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+
+
 # CMSC441_algorithm
 
 This is a private place where I record my review, thinking and reorganizaiton for "Algorithm" course. 
+
+
 
 # 1. Sorting
 
@@ -15,19 +25,44 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 
 <tr>
     <th rowspan = "3">Sorting Algorithms</th>
-    <td rowspan = "2">Insert Sort (sort in place)</td>
-    <td>Merge Sort</td>
+    <td rowspan = "2" style="border:solid 1px">Insert Sort (sort in place)</td>
+    <td style="border:solid 1px">Merge Sort</td>
 </tr>
 
 <tr>
-    <td>Heap Sort (sort in place)</td>
+    <td style="border:solid 1px">Heap Sort (sort in place)</td>
 </tr>
 
 <tr>
-    <td>Quick Sort (Worst)</td>
-    <td>Quick Sort (Avg) (sort in place)</td>
+    <td style="border:solid 1px">Quick Sort (Worst)</td>
+    <td style="border:solid 1px">Quick Sort (Avg) (sort in place)</td>
 </tr>
 
 </table>
 
 # 2. Dynamic Programming
+“Programming” in this context refers to a tabular method, not to writing computer code.
+
+## 2.1 Divide-and-conquer VS Dynamic progrmming alg
+<table>
+<tr>
+    <td style="border:1px;background-color:LightGray">Divide-and-conquer alg </td>
+    <td style="border:1px;background-color:LightGray" >(Solve subproblems recursively)</td>
+    
+</tr>
+
+<tr>
+    <td style="border:1px;background-color:LightGray"></td>    
+    <td style="border:solid 1px">Dynamic Programming alg (Solve common subproblems once)</td>
+</tr>
+</table>
+
+
+## 2.2 Four steps for Dynamic Programming alg:
+1. Characterize the structure of an optimal solution.
+
+2. Recursively deﬁne the value of an optimal solution.
+
+3. Compute the value of an optimal solution, typically in a bottom-up fashion.
+
+4. Construct an optimal solution from computed information.

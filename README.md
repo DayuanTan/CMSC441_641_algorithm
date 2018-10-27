@@ -1,12 +1,4 @@
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-</style>
-
-
 # CMSC441_algorithm
 
 This is a private place where I record my review, thinking and reorganizaiton for "Algorithm" course. 
@@ -25,17 +17,17 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 
 <tr>
     <th rowspan = "3">Sorting Algorithms</th>
-    <td rowspan = "2" style="border:solid 1px"><a href="./insertsort">Insert Sort (sort in place)</a></td>
-    <td style="border:solid 1px"><a href="./mergesort">Merge Sort</a></td>
+    <td rowspan = "2"><a href="./insertsort">Insert Sort (sort in place)</a></td>
+    <td><a href="./mergesort">Merge Sort</a></td>
 </tr>
 
 <tr>
-    <td style="border:solid 1px"><a href="./heapsort">Heap Sort (sort in place)</a></td>
+    <td><a href="./heapsort">Heap Sort (sort in place)</a></td>
 </tr>
 
 <tr>
-    <td style="border:solid 1px"><a href="./quicksort">Quick Sort (Worst)</a></td>
-    <td style="border:solid 1px"><a href="./quicksort">Quick Sort (Avg) (sort in place)</a></td>
+    <td><a href="./quicksort">Quick Sort (Worst)</a></td>
+    <td><a href="./quicksort">Quick Sort (Avg) (sort in place)</a></td>
 </tr>
 
 </table>

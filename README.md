@@ -46,13 +46,13 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 ## 2.1 Divide-and-conquer VS Dynamic progrmming alg
 <table>
 <tr>
-    <td style="border:1px;background-color:LightGray">Divide-and-conquer alg </td>
-    <td style="border:1px;background-color:LightGray" >(Solve subproblems recursively)</td>
+    <td style="border:0px;background-color:LightGray">Divide-and-conquer alg </td>
+    <td style="border:0px;background-color:LightGray" >(Solve subproblems recursively)</td>
     
 </tr>
 
 <tr>
-    <td style="border:1px;background-color:LightGray"></td>    
+    <td style="border:0px;background-color:LightGray"></td>    
     <td style="border:solid 1px">Dynamic Programming alg (Solve common subproblems once)</td>
 </tr>
 </table>

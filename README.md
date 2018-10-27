@@ -3,7 +3,7 @@
 
 This is a private place where I record my review, thinking and reorganizaiton for "Algorithm" course. 
 
-# 1. sorting
+# 1. Sorting
 
 
 <table>
@@ -29,3 +29,5 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 </tr>
 
 </table>
+
+# 2. Dynamic Programming

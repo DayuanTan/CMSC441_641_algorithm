@@ -25,17 +25,17 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 
 <tr>
     <th rowspan = "3">Sorting Algorithms</th>
-    <td rowspan = "2" style="border:solid 1px">Insert Sort (sort in place)</td>
-    <td style="border:solid 1px">Merge Sort</td>
+    <td rowspan = "2" style="border:solid 1px"><a href="./insertsort">Insert Sort (sort in place)</a></td>
+    <td style="border:solid 1px"><a href="./mergetsort">Merge Sort</a></td>
 </tr>
 
 <tr>
-    <td style="border:solid 1px">Heap Sort (sort in place)</td>
+    <td style="border:solid 1px"><a href="./heapsort">Heap Sort (sort in place)</a></td>
 </tr>
 
 <tr>
-    <td style="border:solid 1px">Quick Sort (Worst)</td>
-    <td style="border:solid 1px">Quick Sort (Avg) (sort in place)</td>
+    <td style="border:solid 1px"><a href="./quicksort">Quick Sort (Worst)</a></td>
+    <td style="border:solid 1px"><a href="./quicksort">Quick Sort (Avg) (sort in place)</a></td>
 </tr>
 
 </table>

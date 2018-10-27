@@ -36,18 +36,8 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 “Programming” in this context refers to a tabular method, not to writing computer code.
 
 ## 2.1 Divide-and-conquer VS Dynamic progrmming alg
-<table>
-<tr>
-    <td style="border:0px;background-color:LightGray">Divide-and-conquer alg </td>
-    <td style="border:0px;background-color:LightGray" >(Solve subproblems recursively)</td>
-    
-</tr>
 
-<tr>
-    <td style="border:0px;background-color:LightGray"></td>    
-    <td style="border:solid 1px">Dynamic Programming alg (Solve common subproblems once)</td>
-</tr>
-</table>
+<img src="./venn_DPalg.png"/>
 
 
 ## 2.2 Four steps for Dynamic Programming alg:

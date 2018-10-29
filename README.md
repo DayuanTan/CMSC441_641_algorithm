@@ -39,6 +39,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 <img src="./DynamicProg/venn_DPalg.png"/>
 
+[<div style="text-align: right"> GO TO TOP.</div>](#cmsc441_algorithm)
 
 ## 2.2 Four steps for Dynamic Programming alg:
 1. Characterize the structure of an optimal solution.
@@ -52,6 +53,8 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ## 2.3 Characteristics
 ***optimal substructure***: optimal solutions to a problem incorporate/consists of optimal solutions to related subproblems, which we may solve independently.
 
+[<div style="text-align: right"> GO TO TOP.</div>](#cmsc441_algorithm)
+
 ## 2.4 Two ways to implement a dynamic-programming approach
 ### 2.4.1 top-down with memoization
 - Recursively sovle problems as usual and memoized.
@@ -62,7 +65,11 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 Dynamic programming thus **uses additional memory to save computation time**; it serves an example of a **time-memory trade-off**. The savings may be dramatic: an exponential-time solution may be transformed into a polynomial-time solution. A dynamic-programming approach runs in polynomial time when the number of distinct subproblems involved is polynomial in the input size and we can solve each such subproblem in polynomial time.
 
-## 2.5 Examples
-### <a href="./DP_rodcutting/rodcutting.md">2.5.1 Rod Cutting</a>
+[<div style="text-align: right"> GO TO TOP.</div>](#cmsc441_algorithm)
 
-### <a href="./DP_carowner/carowner.md">2.5.2 Car Ownership</a>
+## 2.5 Examples
+### <a href="./DP_rodcutting/rodcutting.md" id="2.5.1">2.5.1 Rod Cutting</a>
+
+### <a href="./DP_carowner/carowner.md" id="2.5.2">2.5.2 Car Ownership</a>
+
+[<div style="text-align: right"> GO TO TOP.</div>](#cmsc441_algorithm)

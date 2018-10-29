@@ -1,4 +1,4 @@
-<a href="../README.md">Return to main page.</a>
+<a href="../README.md#2.5.1">Return to main page.</a>
 
 ### 2.5.1 Rod Cutting
 
@@ -43,4 +43,4 @@
 </tr>
 </table>
 
-<a href="../README.md">Return to main page.</a>
+<a href="../README.md#2.5.1">Return to main page.</a>

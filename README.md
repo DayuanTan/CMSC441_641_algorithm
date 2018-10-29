@@ -74,12 +74,35 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 <table>
 <tr>
+    <th>Three kinds of solutions</th>
+    <th>Pseudocode</th>
+</tr>
+<tr>
     <td>
-    <a href="./rodcutting/recursiveRodCut.py">Original recursive solution:</a>
+    <a href="./rodcutting/recursiveRodCut.py">Not Dynamic Programming approach (Recursive Top-Down implementation)</a>
     </td>
     <td>
     <img src="./rodcutting/recursiveRodCut.png" width=60%>
     </td>
 <tr>
 
+<tr>
+    <td>
+    <a href="./rodcutting/xxx.py">Top-Down Dynamic Programming approach (Memoization)</a>
+    </td>
+    <td>
+    <img src="./rodcutting/dp_topdown1.png" width=60%>
+    <br>
+    <img src="./rodcutting/dp_topdown2.png" width=60%>
+    </td>
+</tr>
+
+<tr>
+    <td>
+    <a href="./rodcutting/xxx.py">Down-Top Dynamic Programming approach</a>
+    </td>
+    <td>
+    <img src="./rodcutting/dp_downtop.png" width=60%>
+    </td>
+</tr>
 </table>

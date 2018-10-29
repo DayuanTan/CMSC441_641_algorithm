@@ -37,7 +37,7 @@ This is a private place where I record my review, thinking and reorganizaiton fo
 
 ## 2.1 Divide-and-conquer VS Dynamic progrmming alg
 
-<img src="./venn_DPalg.png"/>
+<img src="./DynamicProg/venn_DPalg.png"/>
 
 
 ## 2.2 Four steps for Dynamic Programming alg:
@@ -79,30 +79,30 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 </tr>
 <tr>
     <td>
-    <a href="./rodcutting/recursiveRodCut.py">Not Dynamic Programming approach (Recursive Top-Down implementation)</a>
+    <a href="./DP_rodcutting/recursiveRodCut.py">Not Dynamic Programming approach (Recursive Top-Down implementation)</a>
     </td>
     <td>
-    <img src="./rodcutting/recursiveRodCut.png" width=60%>
+    <img src="./DP_rodcutting/recursiveRodCut.png" width=60%>
     </td>
 <tr>
 
 <tr>
     <td>
-    <a href="./rodcutting/xxx.py">Top-Down Dynamic Programming approach (Memoization)</a>
+    <a href="./DP_rodcutting/xxx.py">Top-Down Dynamic Programming approach (Memoization)</a>
     </td>
     <td>
-    <img src="./rodcutting/dp_topdown1.png" width=100% height=120px>
+    <img src="./DP_rodcutting/dp_topdown1.png" width=100% height=120px>
     <br>
-    <img src="./rodcutting/dp_topdown2.png" width=100% height=190px>
+    <img src="./DP_rodcutting/dp_topdown2.png" width=100% height=190px>
     </td>
 </tr>
 
 <tr>
     <td>
-    <a href="./rodcutting/xxx.py">Down-Top Dynamic Programming approach</a>
+    <a href="./DP_rodcutting/xxx.py">Down-Top Dynamic Programming approach</a>
     </td>
     <td>
-    <img src="./rodcutting/dp_downtop.png" width=60%>
+    <img src="./DP_rodcutting/dp_downtop.png" width=60%>
     </td>
 </tr>
 </table>

@@ -91,9 +91,9 @@ Dynamic programming thus **uses additional memory to save computation time**; it
     <a href="./rodcutting/xxx.py">Top-Down Dynamic Programming approach (Memoization)</a>
     </td>
     <td>
-    <img src="./rodcutting/dp_topdown1.png" width=60%>
+    <img src="./rodcutting/dp_topdown1.png" width=60% height=70px>
     <br>
-    <img src="./rodcutting/dp_topdown2.png" width=60%>
+    <img src="./rodcutting/dp_topdown2.png" width=60% height=110px>
     </td>
 </tr>
 

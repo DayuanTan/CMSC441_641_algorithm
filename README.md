@@ -71,3 +71,5 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 | price <a href="https://www.codecogs.com/eqnedit.php?latex=p_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p_i" title="p_i" /></a> | 1   | 5 | 8 | 9 | 10 | 17 | 17 | 20 | 24 | 30 |
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=p_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?r_i" title="r_i" /></a> : Revenue of a rob whose length is *i*.
+
+<a href="./rodcutting/recursiveRodCut.py">Original recursive solution.</a>

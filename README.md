@@ -66,6 +66,8 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 ### 2.5.1 Rod Cutting
 
 
-| length $i$  | 1   | 2 | 3 | 4 | 5  | 6  | 7  | 8  | 9  | 10 |
+| length *i*  | 1   | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --------- | --- |---|---|---|---|---|---|---|---|---|
-| price $p_i$ | 1   | 5 | 8 | 9 | 10 | 17 | 17 | 20 | 24 | 30 |
+| price <a href="https://www.codecogs.com/eqnedit.php?latex=p_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p_i" title="p_i" /></a> | 1   | 5 | 8 | 9 | 10 | 17 | 17 | 20 | 24 | 30 |
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=p_i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?r_i" title="r_i" /></a> : Revenue of a rob whose length is *i*.

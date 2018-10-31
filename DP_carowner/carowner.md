@@ -95,4 +95,10 @@ programming algorithm. You <b>must</b> provide the following:
 </OL>
 </P>
 
+### ***Solution 1：***
+
+### ***Solution 2：***
+
+### ***Solution 3：***
+
 <a href="../README.md#2.5.2">Return to main page.</a>

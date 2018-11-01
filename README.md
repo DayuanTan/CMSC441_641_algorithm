@@ -74,4 +74,6 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./DP_stampCollection/stampColletion.md" id="2.5.3">2.5.3 Stamp Collection</a>
 
+### <a href="./DP_stampCollection/xxx.md" id="2.5.4">2.5.4 Waldo's World</a>
+
 [<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)

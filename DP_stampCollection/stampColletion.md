@@ -2,7 +2,7 @@
 
 ### 2.5.3 Stamp Collection
 
-<i>// This question comes form <a href="https://www.csee.umbc.edu/~chang/cs441/hw/hw7.shtml">Dr. Change's website for 2018FALL CMSC441 HW7. </a> </i>
+<i>// This question comes form <a href="https://www.csee.umbc.edu/~chang/cs441/hw/hw7.shtml">Dr. Chang's website for 2018FALL CMSC441 HW7. </a> </i>
 
 <P>
 You decide to write an actual letter to your grandmother --- you know, the

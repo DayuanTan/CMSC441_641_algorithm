@@ -77,3 +77,13 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 ### <a href="./DP_waldoworld/waldoWorld.md" id="2.5.4">2.5.4 Waldo's World</a>
 
 [<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)
+
+
+# 3. Greedy Alg
+
+## 3.1 Theory
+
+## 3.2 Examples
+### <a href="./Greedy/Eg_GreedyActivitySelection.pdf.pdf" id="3.2.1">3.2.1 Greedy Activity Selection</a>
+
+[<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)

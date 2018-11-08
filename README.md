@@ -84,6 +84,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 ## 3.1 Theory
 
 ## 3.2 Examples
-### <a href="./Greedy/Eg_GreedyActivitySelection.pdf" id="3.2.1">3.2.1 Greedy Activity Selection</a>
-
+### <a href="./Greedy_gas/Eg_GreedyActivitySelection.md" id="3.2.1">3.2.1 Greedy Activity Selection</a>
+ 
+### <a href="./Greedy/stampColletion.md" id="2.5.3">2.5.3 Stamp Collection</a>
 [<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)

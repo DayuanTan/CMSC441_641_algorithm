@@ -35,13 +35,13 @@ optimum solution to the Trick-or-Treat problem described above.
 
 We induct on *n*, the number of houses, each of which provides one piece of candies, in set of houses *T* . 
 
-<ins>Induction Hypothesis *P(n)*:</ins> The greedy alg finds the route which can collect the largest number of pieces of candies from *n* houses without exceeding the capacity of our bag.
+<b><ins>Induction Hypothesis *P(n)*:</ins></b> The greedy alg finds the route which can collect the largest number of pieces of candies from *n* houses without exceeding the capacity of our bag.
 
-<ins>Base Case: </ins> When we have only one house, so the resulting route provided by greedy alg will be only one house. It's obvious it mush be the best route which can collect largest number of pieces of candies.
+<b><ins>Base Case: </ins></b> When we have only one house, so the resulting route provided by greedy alg will be only one house. It's obvious it mush be the best route which can collect largest number of pieces of candies.
 
-<ins>Induction Step:</ins> Let <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> be the route slected by greedy alg from set of houses *T* which has *n+1* houses (or candies since each house provides a piece of candy). This route can collect *t* pieces of candies. 
+<b><ins>Induction Step:</ins></b> **Let <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> be the route slected by greedy alg from set of houses *T* which has *n+1* houses** (or candies since each house provides a piece of candy). This route can collect *t* pieces of candies. 
 
-Supposed by way of contradiction that there exists a better route which can collect more than *t* pieces of candies from that set of houses *T* which has *n+1* houses: <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i>. 
+Supposed by way of contradiction that **there exists a better route which can collect more than *t* pieces of candies from that set of houses *T* which has *n+1* houses: <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i>.** 
 
 Without loss of geneality, assume that <i>g<sub>i</sub></i>, where *i* ranges form <i>1 to t</i>, and <i>x<sub>i</sub></i>, where *i* ranges form <i>1 to t+1</i>, are sorted increasingly by the weight of candy they are providing. 
 
@@ -49,9 +49,9 @@ Since <i>g<sub>1</sub></i> was chosen to be the piece of candy which has least w
 
 Thus we can know <i>g<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> is also a optimum route for the set of houses *T*. (Swap <i>g<sub>1</sub></i> for <i>x<sub>1</sub></i>.)
 
-Now, let *T' ⊆ T* be a new route of houses which doesn't include <i>g<sub>1</sub></i>. Then *T'* will have at most *n* houses. By induction hypothesis, greedy alg can find a optimum route which collect most pieces of candies (in this case is *t-1* pieces of candies): <i>g<sub>2</sub>, g<sub>3</sub>, g<sub>4</sub> ... g<sub>t</sub></i>.
+**Now, let *T' ⊆ T* be a new route of houses which doesn't include <i>g<sub>1</sub></i>.** Then *T'* will have at most *n* houses. By induction hypothesis, **greedy alg can find a optimum route which collect most pieces of candies (in this case is *t-1* pieces of candies): <i>g<sub>2</sub>, g<sub>3</sub>, g<sub>4</sub> ... g<sub>t</sub></i>.**
 
-Meanwhile, <i>x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> are also included in *T'*, and they should also be a optimunm route for set *T'*. But by the knowledge above, we know this route (<i>x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i>) can collect more than *t-1* pieces of candies, since <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> can collect more than *t* pieces of candies. It collects more pieces of candies than greedy solution (<i>g<sub>2</sub>, g<sub>3</sub>, g<sub>4</sub> ... g<sub>t</sub></i>). This contradicts the induction hypothesis.
+Meanwhile, <i>x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> are also included in *T'*, and **they should also be a optimunm route for set *T'*.** ***But*** by the knowledge above, we know this route (<i>x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i>) can collect more than *t-1* pieces of candies, since <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> can collect more than *t* pieces of candies. It collects more pieces of candies than greedy solution (<i>g<sub>2</sub>, g<sub>3</sub>, g<sub>4</sub> ... g<sub>t</sub></i>). **This contradicts the induction hypothesis.**
 
 Therefore, there can't exist an optimum route <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> for that set of houses *T* and <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> is the optimum route for the set of houses *T*. ***(Proof ends)***
 

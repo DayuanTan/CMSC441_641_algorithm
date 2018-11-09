@@ -26,4 +26,20 @@ Then we have set {w4, w5}, {w5, w6}, {w6, w7}, {w7, w8}, {w8, w9}, {w9, w10, w11
 
 So he shold stop at w2, w4, w5, w6, w7, w8, w9. 
 
+***Pseudocode***:
+
+```python
+distance_current = 0;
+number_of_waterstops = 0;
+for stops 1 to n:
+    if distance_current + distance_to_next_stop > m miles:
+        mark_current_stop; # mark current stop,
+        number_of_waterstops ++; # means we will stop here to refill water.
+        distance_current = 0; # in order to next iteration.
+    else:
+        distance_current = distance_current + distance_to_next_stop; 
+        distance_to_next_stop update to next stop;
+return marked_stops
+```
+
 <a href="../README.md#3.2.3">Return to main page.</a>

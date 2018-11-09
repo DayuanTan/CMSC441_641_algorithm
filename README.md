@@ -90,5 +90,6 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./Greedy_skating/eg_greedyskating.md" id="3.2.3">3.2.3 Professor Gekko's skating expedition</a>
 
+### <a href="./Greedy_unitLengthInterval/eg_unitLengthInterval.md" id="3.2.4">3.2.4 Unit-length intervals</a>
 
 [<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)

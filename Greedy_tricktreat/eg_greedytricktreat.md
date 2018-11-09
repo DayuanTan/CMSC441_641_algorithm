@@ -35,11 +35,11 @@ optimum solution to the Trick-or-Treat problem described above.
 
 We induct on *n*, the number of houses, each of which provides one piece of candies, in set of houses *T* . 
 
-<u>Induction Hypothesis *P(n)*:</u> The greedy alg finds the route which can collect the largest number of pieces of candies from *n* houses without exceeding the capacity of our bag.
+<ins>Induction Hypothesis *P(n)*:</ins> The greedy alg finds the route which can collect the largest number of pieces of candies from *n* houses without exceeding the capacity of our bag.
 
-<u>Base Case: </u> When we have only one house, so the resulting route provided by greedy alg will be only one house. It's obvious it mush be the best route which can collect largest number of pieces of candies.
+<ins>Base Case: </ins> When we have only one house, so the resulting route provided by greedy alg will be only one house. It's obvious it mush be the best route which can collect largest number of pieces of candies.
 
-<u>Induction Step:</u> Let <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> be the route slected by greedy alg from set of houses *T* which has *n+1* houses (or candies since each house provides a piece of candy). This route can collect *t* pieces of candies. 
+<ins>Induction Step:</ins> Let <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> be the route slected by greedy alg from set of houses *T* which has *n+1* houses (or candies since each house provides a piece of candy). This route can collect *t* pieces of candies. 
 
 Supposed by way of contradiction that there exists a better route which can collect more than *t* pieces of candies from that set of houses *T* which has *n+1* houses: <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i>. 
 

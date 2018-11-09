@@ -16,8 +16,14 @@ The professor’s goal is to minimize the number of water stops along his route 
 
 ### Solution:
 
-As shown in following picture, we select the farest water stop from those water stops in the range of *m* miles. In this case, the first set of water stops will be {w1, w2}, and we select w2. 
+As shown in following picture, we select the farest water stop from those water stops in the range of *m* miles. In this case, the first set of water stops set will be {w1, w2}, and we select w2. 
 
 <img src="skating.png"/>
+
+Then we begin with w2, in the range of *m* miles, we have {w2, w3, w4}. Then we select the farest one, i.e. w4.
+
+Then we have set {w4, w5}, {w5, w6}, {w6, w7}, {w7, w8}, {w8, w9}, {w9, w10, w11}.
+
+So he shold stop at w2, w4, w5, w6, w7, w8, w9. 
 
 <a href="../README.md#3.2.3">Return to main page.</a>

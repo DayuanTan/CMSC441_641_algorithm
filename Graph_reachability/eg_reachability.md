@@ -5,11 +5,13 @@
 <i>// This question comes form <a href="https://www.csee.umbc.edu/~chang/cs441/hw/hw9.shtml">Dr. Chang's website for 2018FALL CMSC441 HW9. </a> </i>
 
 
-You are given a <div style="color:gray;"><s>connected</s></div> undirected graph <i>G</i> = (<i>V</i>,
+You are given a 
+<span style="color:gray;"><s>connected</s></span>
+undirected graph <i>G</i> = (<i>V</i>,
 <i>E</i>&thinsp;) as an adjacency list. 
-<div style="color:red;">
+<span style="color:red;">
 The graph <i>G</i> might not be connected.
-</div>
+</span>
 You want to fill-in a two-dimensional
 array <tt>R[,]</tt> so that <tt>R[</tt><i>u</i>,<i>v</i><tt>]</tt> 
 is 1 if there is a path from vertex <i>u</i> to vertex <i>v</i>.

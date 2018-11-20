@@ -47,7 +47,7 @@ EndFor.
 
 <img src="graph_2color.jpg">
 
-### ***Provf:***
+### ***Proof:***
 As shown in above figure. Assume there are two vertexes at same level connected to each other directly. The distance to their common parents is k. Then the perimeter of this three-vertexes-loop will be 2k+1. It is obvious that we cannot two coloring a 2k+1 loop graph.
 
 <a href="../README.md#4.2.1">Return to main page.</a>

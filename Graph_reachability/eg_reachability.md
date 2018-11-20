@@ -10,7 +10,7 @@ You are given a
 undirected graph <i>G</i> = (<i>V</i>,
 <i>E</i>&thinsp;) as an adjacency list. 
 <span style="color:red;">
-The graph <i>G</i> might not be connected.
+***The graph <i>G</i> might not be connected.***
 </span>
 You want to fill-in a two-dimensional
 array <tt>R[,]</tt> so that <tt>R[</tt><i>u</i>,<i>v</i><tt>]</tt> 

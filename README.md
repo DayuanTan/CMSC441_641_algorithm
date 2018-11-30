@@ -103,4 +103,12 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 ### <a href="./Graph_2coloring/eg_2coloring.md" id="4.2.1">4.2.1 Two Coloring</a>
 ### <a href="./Graph_reachability/eg_reachability.md" id="4.2.2">4.2.2 Reachability</a>
 
+## 4.3
+
+## 4.4 Example
+### <a href="./Graph_alternateTopologySort/eg_alternateTopologySort.md" id="4.4.1">4.4.1 Alternate topology sort</a>
+### <a href="./Graph_semiconnected/eg_semiconnected.md" id="4.4.2">4.4.2 Semiconnected</a>
+### <a href="./Graph_gossipMongering/eg_gossipMongering.md" id="4.4.3">4.4.3 Gossip Mongering</a>
+
+
 [<p align="right"> GO TO TOP.</p>](#cmsc441_algorithm)

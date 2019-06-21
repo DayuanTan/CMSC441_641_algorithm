@@ -1,5 +1,5 @@
 
-# CMSC441_algorithm
+# CMSC441 & 641 Algorithm
 
 This is a private place where I record my reviewing, thinking and reorganizaiton for "Algorithm" course. 
 
@@ -97,7 +97,45 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 # 4. Graph Theory
 
-## 4.1
+## 4.1 Graph
+
+**Graph**: G = (V, E). Self loop: (v, v).
+
+**Undirected Graph**: Wire, Traffic netowkrs.
+
+**Directed Graph**: Status transition, Markov model.
+
+**Sparse Graph**: |E| << $|V|^2$.
+
+**Dense Graph**: |E| $\approx$< $|V|^2$.
+
+**Weighted Graph**: Distance, Density. 
+
+**Adjacency-list** representation V.S. **Adjacency-matrix** representation:
+
+<img src="./Graph/graph_representation.png"></img>
+
+
+When programming, how represent adjacency-list?
+-  List, forward list.
+-  Vector.              // Don't change often. Quicker. Easy for reading and writing.
+-  Set, unordered set.  // Easy for looking up.
+<img src="./Graph/graph_vector.png" />
+
+
+**Searching Algorithms:**
+
+- **BFS**: Like water wave. Similiar to Tree‘s hierarchy traversal but the difference is we need to label whether we have visited this node or not, which is not necessary in THT.
+
+  - Code: <a href="https://github.com/xiexiexx/Planet/blob/master/breadth_first_search/BFS.cpp">cpp</a>(<a href="./Graph/BFS.cpp">Backup</a>). 
+
+
+- **DFS**: Widely used. Try best to visit as deeply as possible.
+
+  - Code:.
+
+For more, see <a href="./Graph/12.1 Graph Algorithms.pdf">slides of Dr. Chang</a>.
+
 
 ## 4.2 Example
 ### <a href="./Graph_2coloring/eg_2coloring.md" id="4.2.1">4.2.1 Two Coloring</a>

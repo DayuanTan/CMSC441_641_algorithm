@@ -32,7 +32,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 </table>
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 # 2. Dynamic Programming
 “Programming” in this context refers to a tabular method, not to writing computer code.
@@ -55,7 +55,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ## 2.3 Characteristics
 ***optimal substructure***: optimal solutions to a problem incorporate/consists of optimal solutions to related subproblems, which we may solve independently.
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 ## 2.4 Two ways to implement a dynamic-programming approach
 ### 2.4.1 top-down with memoization
@@ -67,7 +67,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 Dynamic programming thus **uses additional memory to save computation time**; it serves an example of a **time-memory trade-off**. The savings may be dramatic: an exponential-time solution may be transformed into a polynomial-time solution. A dynamic-programming approach runs in polynomial time when the number of distinct subproblems involved is polynomial in the input size and we can solve each such subproblem in polynomial time.
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 ## 2.5 Examples
 ### <a href="./DP_rodcutting/rodcutting.md" id="2.5.1">2.5.1 Rod Cutting</a>
@@ -78,7 +78,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./DP_waldoworld/waldoWorld.md" id="2.5.4">2.5.4 Waldo's World</a>
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
 # 3. Greedy Alg
@@ -94,7 +94,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./Greedy_unitLengthInterval/eg_unitLengthInterval.md" id="3.2.4">3.2.4 Unit-length intervals</a>
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
 
@@ -152,4 +152,4 @@ For more, see <a href="./Graph/12.1 Graph Algorithms.pdf">slides of Dr. Chang</a
 ### <a href="./Graph_gossipMongering/eg_gossipMongering.md" id="4.4.3">4.4.3 Gossip Mongering</a>
 
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

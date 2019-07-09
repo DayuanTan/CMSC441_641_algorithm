@@ -20,7 +20,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 [![](.gitbook/assets/venn_dpalg.png)](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/DynamicProg/venn_DPalg.png)
 
- [GO TO TOP.]()
+ [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 
 ### 2.2 Four steps for Dynamic Programming alg:
 
@@ -33,7 +33,8 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 _**optimal substructure**_: optimal solutions to a problem incorporate/consists of optimal solutions to related subproblems, which we may solve independently.
 
- [GO TO TOP.]()
+ 
+ [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 
 ### 2.4 Two ways to implement a dynamic-programming approach
 
@@ -49,7 +50,7 @@ _**optimal substructure**_: optimal solutions to a problem incorporate/consists 
 
 Dynamic programming thus **uses additional memory to save computation time**; it serves an example of a **time-memory trade-off**. The savings may be dramatic: an exponential-time solution may be transformed into a polynomial-time solution. A dynamic-programming approach runs in polynomial time when the number of distinct subproblems involved is polynomial in the input size and we can solve each such subproblem in polynomial time.
 
- [GO TO TOP.]()
+ [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 
 ### 2.5 Examples
 
@@ -61,7 +62,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 #### [2.5.4 Waldo's World](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/DP_waldoworld/waldoWorld.md)
 
- [GO TO TOP.]()
+  [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 
 ## 3. Greedy Alg
 
@@ -77,7 +78,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 #### [3.2.4 Unit-length intervals](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/Greedy_unitLengthInterval/eg_unitLengthInterval.md)
 
- [GO TO TOP.]()
+  [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 
 ## 4. Graph Theory
 
@@ -116,6 +117,8 @@ When programming, how represent adjacency-list?
 
 For more, see [slides of Dr. Chang](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/Graph/12.1%20Graph%20Algorithms.pdf).
 
+ [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
+
 ### 4.2 Example
 
 #### [4.2.1 Two Coloring](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/Graph_2coloring/eg_2coloring.md)
@@ -132,5 +135,5 @@ For more, see [slides of Dr. Chang](https://github.com/DayuanTan/CMSC441_641_alg
 
 #### [4.4.3 Gossip Mongering](https://github.com/DayuanTan/CMSC441_641_algorithm/blob/master/Graph_gossipMongering/eg_gossipMongering.md)
 
- [GO TO TOP.]()
+  [<p align="right"> GO TO TOP.</p>](#DayuanTan/CMSC441\_641\_algorithm)
 

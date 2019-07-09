@@ -32,7 +32,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 </table>
 
-[<p align="right"> GO TO TOP.</p>](#CMSC441\ &\ 641\ Algorithm)
+[<p align="right"> GO TO TOP.</p>](#CMSC441_&_641_Algorithm)
 
 # 2. Dynamic Programming
 “Programming” in this context refers to a tabular method, not to writing computer code.
@@ -121,8 +121,8 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 When programming, how represent adjacency-list?
 -  List, forward list.
--  Vector.              // Don't change often. Quicker. Easy for reading and writing.
--  Set, unordered set.  // Easy for looking up.
+-  Vector.              ```// Don't change often. Quicker. Easy for reading and writing.```
+-  Set, unordered set.  ```// Easy for looking up.```
 <img src="./Graph/graph_vector.png" />
 
 

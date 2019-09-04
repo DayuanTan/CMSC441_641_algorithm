@@ -24,7 +24,7 @@
 
 <tr>
     <td>
-    <a href="./xxx.py">Top-Down Dynamic Programming approach (Memoization)</a>
+    Top-Down Dynamic Programming approach (Memoization) (TBC)
     </td>
     <td>
     <img src="./dp_topdown1.png" width=100% height=120px>
@@ -35,12 +35,42 @@
 
 <tr>
     <td>
-    <a href="./xxx.py">Down-Top Dynamic Programming approach</a>
+    Down-Top Dynamic Programming approach (TBC)
     </td>
     <td>
     <img src="./dp_downtop.png" width=60%>
     </td>
 </tr>
 </table>
+
+
+------
+### Solution 2, by Prof. David Chapman.
+|L|1|3|5|
+|-|-|-|-|
+|P|1|4|6|
+|K(index)|0|1|2|
+
+X[B]: maximal price for cutting rod with len B
+
+We can see this question as two pieces of rod. First part is a rod with len *L_a*, and the left part is a rod with len *B-L_a*. 
+
+Optimal sub-structure:
+X[B] = P_a + X[B - L_a]
+
+1<=a<=K, a is the index. L_a is the length of one piece of rod, while P_a is the price of that piece of rod. 
+
+Pseudocode:
+```python
+X[N] # store all results of sub-questions
+
+for B = 1...N
+    X[B] = P_1 + X[B - L_1]
+
+    for a = 1...K
+        if (B - L_a >= 0)
+            X[B] = max( X[B], P_a + X[B - L_a])
+```
+
 
 <a href="../README.md#2.5.1">Return to main page.</a>

@@ -78,6 +78,8 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./DP_waldoworld/waldoWorld.md" id="2.5.4">2.5.4 Waldo's World</a>
 
+### [2.5.5 Fibonacci number](./DP_fibonacci.md)
+
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 

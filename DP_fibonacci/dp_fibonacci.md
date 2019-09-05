@@ -6,6 +6,8 @@ F(N) = F(N-1) + F(N-2)
 
 F(0)= F(1) = 0
 
+![](./fibonacci.jpg)
+
 Pseudocode:
 ```python
 F(N) # store all results of sub-questions

@@ -80,6 +80,8 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### [2.5.5 Fibonacci number](./DP_fibonacci/dp_fibonacci.md)
 
+### [2.5.6 Largest Common Subsequence](./DP_lcs/dp_lcs.md)
+
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 

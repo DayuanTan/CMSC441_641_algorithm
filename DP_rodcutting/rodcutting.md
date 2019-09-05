@@ -51,14 +51,16 @@
 |P|1|4|6|
 |K(index)|0|1|2|
 
-X[B]: maximal price for cutting rod with len B
+![](./rod.JPG)
+
+**X[B]**: maximal price for cutting rod with len B
 
 We can see this question as two pieces of rod. First part is a rod with len *L_a*, and the left part is a rod with len *B-L_a*. 
 
-Optimal sub-structure:
-X[B] = P_a + X[B - L_a]
+**Optimal sub-structure:**
+**X[B] = P_a + X[B - L_a]**
 
-1<=a<=K, a is the index. L_a is the length of one piece of rod, while P_a is the price of that piece of rod. 
+1<=a<=K, **a** is the index. **L_a** is the length of one piece of rod, while **P_a** is the price of that piece of rod. 
 
 Pseudocode:
 ```python

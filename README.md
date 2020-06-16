@@ -1,11 +1,11 @@
 
 # CMSC441 & 641 Algorithm
 
-This is a private place where I record my reviewing, thinking and reorganizaiton for "Algorithm" course. 
+This is a private place where I record my reviewing, thinking and reorganizaiton for "Algorithm" course (CMSC 441 & 641 and [Coursera Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome)). More slides of Coursera Algorithm see [here](./files/c/). 
 
 
 
-# 1. Sorting
+# 1. Sorting & [Union-find](https://algs4.cs.princeton.edu/home/)
 
 
 <table>
@@ -31,6 +31,9 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 </tr>
 
 </table>
+ 
+## [Union-find](https://algs4.cs.princeton.edu/home/) of [Coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome). 
+
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 

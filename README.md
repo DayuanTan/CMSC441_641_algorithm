@@ -144,7 +144,32 @@ When programming, how represent adjacency-list?
 
   - Code:.
 
-For more, see <a href="./files/Graph/12.1 Graph Algorithms.pdf">slides of Dr. Chang</a>.
+For more, see <a href="./files/Graph/12.1 Graph Algorithms.pdf">Graph theory slides of Dr. Chang</a>.
+Or see CSE12 PA3, Lecture08, MAZE Stack Queue BFS DFS of UCSD.
+
+Usually, use ***queue*** to implement the BFS, use ***stack*** to implement DFS. 
+
+BFS/queue explore all possible nodes at same level/distance before moving further to next level/distance+1. 
+- This property makes it pretty good at finding ***shortest path***, because it will explore all possible paths with length l before to explore all possible paths with length l+1. 
+- This property also makes it visit some nodes which are unnecessary for shortest path, which means more memory usage.
+
+DFS/stack will stick with one direction once it's possible to continue. It doesn't stop that direction until it goes to a dead end. Then it switches to another direction. So DFS might find the shortest path but cannot guarantee it. 
+
+Queue in java can be implemented using LinkedList or ArrayList. Stack in java can be implemented using Stack calss. 
+
+[Difference between BFS and DFS Binary Tree:](https://www.guru99.com/difference-between-bfs-and-dfs.html)
+|BFS|	DFS|
+|:-|:-|
+|BFS finds the shortest path to the destination.|	DFS goes to the bottom of a subtree, then backtracks.|
+|The full form of BFS is Breadth-First Search.|	The full form of DFS is Depth First Search.|
+|It uses a queue to keep track of the next location to visit.|	It uses a stack to keep track of the next location to visit.|
+|BFS traverses according to tree level.|	DFS traverses according to tree depth.|
+|It is implemented using FIFO list.|	It is implemented using LIFO list.|
+|It requires more memory as compare to DFS.|	It requires less memory as compare to BFS.|
+|This algorithm gives the shallowest path solution.|	This algorithm doesn't guarantee the shallowest path solution.|
+|There is no need of backtracking in BFS.|	There is a need of backtracking in DFS.|
+|You can never be trapped into finite loops.|	You can be trapped into infinite loops.|
+|If you do not find any goal, you may need to expand many nodes before the solution is found.|	If you do not find any goal, the leaf node backtracking may occur.|
 
 
 ## 4.2 Example

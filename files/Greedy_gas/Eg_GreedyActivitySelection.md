@@ -1,4 +1,4 @@
-<a href="../README.md#3.2.1">Return to main page.</a>
+<a href="../../README.md#3.2.1">Return to main page.</a>
 
 ### 3.2.1 Greedy Activity Selection
 
@@ -15,4 +15,4 @@ We use the following greedy algorithm:
 
 ### <a href="./Eg_GreedyActivitySelection.pdf">Solution and Proof.</a>
 
-<a href="../README.md#3.2.1">Return to main page.</a>
+<a href="../../README.md#3.2.1">Return to main page.</a>

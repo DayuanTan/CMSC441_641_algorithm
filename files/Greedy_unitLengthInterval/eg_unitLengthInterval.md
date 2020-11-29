@@ -1,4 +1,4 @@
-<a href="../README.md#3.2.4">Return to main page.</a>
+<a href="../../README.md#3.2.4">Return to main page.</a>
 
 ### 3.2.4 Unit-length intervals (Exercise 16.2-5, page 428)
 
@@ -12,4 +12,4 @@ Describe an efﬁcient algorithm that, given a set <i>{x<sub>1</sub>, x<sub>2</s
 2. The first unit-length internal will be [<i>y<sub>1</sub>, y<sub>2</sub></i>].
 3. For the following point, if <i>y<sub>i</sub></i> is the leftmost point not contained in any existing unit-length interval, then the next unit-length interval is [<i>y<sub>i</sub>, y<sub>i+1</sub></i>] and so forth. 
 
-<a href="../README.md#3.2.4">Return to main page.</a>
+<a href="../../README.md#3.2.4">Return to main page.</a>

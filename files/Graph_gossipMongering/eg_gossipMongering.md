@@ -1,4 +1,4 @@
-<a href="../README.md#4.4.3">Return to main page.</a>
+<a href="../../README.md#4.4.3">Return to main page.</a>
 
 ### 4.4.3 Gossip Mongering
 
@@ -61,4 +61,4 @@ set of people to tell is when the graph has no edges at all.
 ### ***Solution：***
 
 
-<a href="../README.md#4.4.3">Return to main page.</a>
+<a href="../../README.md#4.4.3">Return to main page.</a>

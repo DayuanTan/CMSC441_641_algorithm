@@ -1,4 +1,4 @@
-<a href="../README.md#4.4.2">Return to main page.</a>
+<a href="../../README.md#4.4.2">Return to main page.</a>
 
 ### 4.4.2 Semiconnected
 
@@ -13,4 +13,4 @@ graphs.
 ### ***Solution：***
 
 
-<a href="../README.md#4.4.2">Return to main page.</a>
+<a href="../../README.md#4.4.2">Return to main page.</a>

@@ -147,6 +147,11 @@ When programming, how represent adjacency-list?
 
 
 
+
+
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
+
+
 ## <span id="412">4.1.2 Searching Algorithms:</span>
 
 - **BFS**: Like water wave. Similiar to Tree‘s hierarchy traversal but the difference is we need to label whether we have visited this node or not, which is not necessary in THT.
@@ -186,6 +191,10 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 |If you do not find any goal, you may need to expand many nodes before the solution is found.|	If you do not find any goal, the leaf node backtracking may occur.|
 
 
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
+
+
+
 ## 4.2 Example
 ### <a href="./files/Graph_2coloring/eg_2coloring.md" id="4.2.1">4.2.1 Two Coloring</a>
 ### <a href="./files/Graph_reachability/eg_reachability.md" id="4.2.2">4.2.2 Reachability</a>
@@ -207,6 +216,12 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 # <span id="5">5. HashMap </span>
 
+
+
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
+
+
+
 # <span id="6">6. Tree, Binary Search Tree </span>
 
 Definition: A ***BST (Binary Search Tree)*** is a tree, where at **every** node, all keys to the **left** of that node is **smaller** than that key, and all keys to the **right** are **larger**.
@@ -223,4 +238,8 @@ PAE: print all elements.
 | Post-order||
 
 
-<img src="files/tree/PAE.png"></img>
+<img src="files/tree/PAE.png" width=300></img>
+
+
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
+

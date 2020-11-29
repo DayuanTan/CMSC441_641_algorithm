@@ -241,7 +241,7 @@ PAE: print all elements.
 
 <img src="files/tree/PAE.png" width=600></img>
 
-[BST Data Structure Practice & solution.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
+[BST Data Structure Practice & solution: 1. Write a BST class including all its common methods, 2. Implementing the Frequency Filter.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 

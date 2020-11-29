@@ -5,9 +5,9 @@
 
 | Depth-first (Stack) | Breadth-first (Queue) |  
 |---|---|
-|  Pre-order | Level-order  |  
-|  In-order |   |  
-| Post-order||
+|  Pre-order, O(n)  | Level-order, O(n)   |  
+|  In-order, O(n)  |   |  
+| Post-order, O(n) ||
 |||
 
 

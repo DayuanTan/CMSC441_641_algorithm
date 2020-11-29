@@ -1,4 +1,4 @@
-<a href="../README.md#3.2.2">Return to main page.</a>
+<a href="../../README.md#3.2.2">Return to main page.</a>
 
 ### 3.2.2 Greedy Trick or Treat
 
@@ -55,4 +55,4 @@ Meanwhile, <i>x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> are also inc
 
 Therefore, there can't exist an optimum route <i>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub> ... x<sub>t+1</sub> </i> for that set of houses *T* and <i>g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub> ... g<sub>t</sub></i> is the optimum route for the set of houses *T*. ***(Proof ends)***
 
-<a href="../README.md#3.2.2">Return to main page.</a>
+<a href="../../README.md#3.2.2">Return to main page.</a>

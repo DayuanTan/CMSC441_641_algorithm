@@ -39,4 +39,4 @@ Total running time is O(V+E) + O(V^2) = O(V^2)
 <img src="graph_reachability.jpg">
 
 
-<a href="../README.md#4.2.2">Return to main page.</a>
+<a href="../../README.md#4.2.2">Return to main page.</a>

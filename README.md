@@ -218,6 +218,7 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 
+[HashMap Data Structure Practice & solution.](https://drive.google.com/drive/folders/1gYFopTNfVLTe1BaimcF4WylHOa5qlQHc?usp=sharing)
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
@@ -240,6 +241,7 @@ PAE: print all elements.
 
 <img src="files/tree/PAE.png" width=600></img>
 
+[BST Data Structure Practice & solution.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 

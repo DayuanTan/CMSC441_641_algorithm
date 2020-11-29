@@ -10,7 +10,9 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ## [3. Greedy Alg](#3)
 ## [4. Graph Theory](#4)
 ### [4.1.1 Graph](#411)
-### [4.1.2 Searching Algorithms: BFS DFS](#412)
+### [4.1.2 Searching Algorithms: BFS, DFS](#412)
+## [5. HashMap](#5)
+## [6. Tree, BST](#6)
 
 ------
 
@@ -197,3 +199,28 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
+
+
+
+
+
+
+# <span id="5">5. HashMap </span>
+
+# <span id="6">6. Tree, Binary Search Tree </span>
+
+Definition: A ***BST (Binary Search Tree)*** is a tree, where at **every** node, all keys to the **left** of that node is **smaller** than that key, and all keys to the **right** are **larger**.
+
+
+PAE: print all elements. 
+
+[PAE/searching algorithms:](files/tree/pae.md)
+
+| Depth-first (Stack) | Breadth-first (Queue) |  
+|---|---|
+|  Pre-order | Level-order  |  
+|  In-order |   |  
+| Post-order||
+
+
+<img src="files/tree/PAE.png"></img>

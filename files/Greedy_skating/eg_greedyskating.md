@@ -1,4 +1,4 @@
-<a href="../README.md#3.2.3">Return to main page.</a>
+<a href="../../README.md#3.2.3">Return to main page.</a>
 
 ### 3.2.3 Professor Gekko's skating expedition (Exercise 16.2-4, page 427)
 
@@ -42,4 +42,4 @@ for stops 1 to n:
 return marked_stops
 ```
 
-<a href="../README.md#3.2.3">Return to main page.</a>
+<a href="../../README.md#3.2.3">Return to main page.</a>

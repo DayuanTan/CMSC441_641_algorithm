@@ -229,13 +229,13 @@ Definition: A ***BST (Binary Search Tree)*** is a tree, where at **every** node,
 
 PAE: print all elements. 
 
-[PAE/searching algorithms:](files/tree/pae.md)
+[PAE/searching algorithms: (more)](files/tree/pae.md)
 
 | Depth-first (Stack) | Breadth-first (Queue) |  
 |---|---|
-|  Pre-order | Level-order  |  
-|  In-order |   |  
-| Post-order||
+|  Pre-order, O(n) | Level-order, O(n)   |  
+|  In-order, O(n)  |   |  
+| Post-order, O(n) ||
 
 
 <img src="files/tree/PAE.png" width=600></img>

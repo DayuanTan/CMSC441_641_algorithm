@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>
 
 ### 2.5.6 Largest Common Subsequence
 
@@ -36,4 +36,4 @@ for P = 1 ... N
 ```
 
 
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>

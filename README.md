@@ -12,7 +12,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 <tr>
     <th>Time</th>
     <th><a href="https://www.codecogs.com/eqnedit.php?latex=\Theta(n^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta(n^2)" title="$\Theta(n^2)$" /></a> (\Theta(n^2))</th>
-    <th><a href="https://www.codecogs.com/eqnedit.php?latex=\Theta(nlogn)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta(nlogn)" title="$\Theta(n^2)$" /></a></th>
+    <th><a href="https://www.codecogs.com/eqnedit.php?latex=\Theta(nlogn)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta(nlogn)" title="$\Theta(n^2)$" /></a> (\Theta(nlogn))</th>
 </tr>
 
 <tr>
@@ -33,6 +33,8 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 </table>
  
 ## [Union-find](https://algs4.cs.princeton.edu/home/) of [Coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome). 
+
+(install OpenJDK 11 and IntelliJ IDEA [see princeton](https://lift.cs.princeton.edu/java/mac/))
 
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

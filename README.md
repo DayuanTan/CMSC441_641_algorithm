@@ -5,7 +5,16 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 
 
-# 1. Sorting & [Union-find](https://algs4.cs.princeton.edu/home/)
+## [1. Sorting & Union-find](#1) 
+## [2. Dynamic Programming](#2)
+## [3. Greedy Alg](#3)
+## [4. Graph Theory](#4)
+### [4.1.1 Graph](#411)
+### [4.1.2 Searching Algorithms: BFS DFS](#412)
+
+------
+
+# <span id = "1">1. Sorting & [Union-find](https://algs4.cs.princeton.edu/home/) </span>
 
 
 <table>
@@ -39,7 +48,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
-# 2. Dynamic Programming
+# <span id = "2">2. Dynamic Programming</span>
 “Programming” in this context refers to a tabular method, not to writing computer code.
 
 ## 2.1 Divide-and-conquer VS Dynamic progrmming alg
@@ -90,7 +99,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
-# 3. Greedy Alg
+# <span id="3">3. Greedy Alg</span>
 
 ## 3.1 Theory
 
@@ -107,9 +116,9 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 
 
-# 4. Graph Theory
+# <span id="4">4. Graph Theory</span>
 
-## 4.1 Graph
+## <span id="411">4.1.1 Graph</span>
 
 **Graph**: G = (V, E). Self loop: (v, v).
 
@@ -135,7 +144,8 @@ When programming, how represent adjacency-list?
 <img src="./files/Graph/graph_vector.png" />
 
 
-**Searching Algorithms:**
+
+## <span id="412">4.1.2 Searching Algorithms:</span>
 
 - **BFS**: Like water wave. Similiar to Tree‘s hierarchy traversal but the difference is we need to label whether we have visited this node or not, which is not necessary in THT.
 

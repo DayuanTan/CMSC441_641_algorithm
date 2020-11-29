@@ -238,7 +238,7 @@ PAE: print all elements.
 | Post-order||
 
 
-<img src="files/tree/PAE.png" width=300></img>
+<img src="files/tree/PAE.png" width=600></img>
 
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

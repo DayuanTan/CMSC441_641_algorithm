@@ -11,8 +11,9 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ## [4. Graph Theory](#4)
 ### [4.1.1 Graph](#411)
 ### [4.1.2 Searching Algorithms: BFS, DFS](#412)
-## [5. HashMap](#5)
-## [6. Tree, BST](#6)
+## [5. HashMap](#5) and learning alg Markov Chain
+## [6. Tree, BST  ](#6) and Frequency Filter
+## [7. Heap ](#6) and Buffer
 
 ------
 
@@ -218,7 +219,7 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 
-[HashMap Data Structure Practice & solution.](https://drive.google.com/drive/folders/1gYFopTNfVLTe1BaimcF4WylHOa5qlQHc?usp=sharing)
+[HashMap Data Structure Practice & solution: 1. Implementation of HashMap; 2. Use HashMap to implement a basic learning algorithm Markov Chain.](https://drive.google.com/drive/folders/1gYFopTNfVLTe1BaimcF4WylHOa5qlQHc?usp=sharing)
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
@@ -241,7 +242,15 @@ PAE: print all elements.
 
 <img src="files/tree/PAE.png" width=600></img>
 
-[BST Data Structure Practice & solution: 1. Write a BST class including all its common methods, 2. Implementing the Frequency Filter.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
+[BST Data Structure Practice & solution: 1. Implement a BST class including all its common methods; 2. Implementing the Frequency Filter to order and filter data from a text file.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
+
+
+# <span id="7">7. Heap </span>
+
+
+[BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://drive.google.com/drive/folders/1bGICgLJverAGK5N559pShLZv70e8-ALE?usp=sharing)
+
+[<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

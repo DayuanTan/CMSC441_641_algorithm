@@ -219,7 +219,7 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 
-[HashMap Data Structure Practice & solution: 1. Implementation of HashMap; 2. Use HashMap to implement a basic learning algorithm Markov Chain.](https://drive.google.com/drive/folders/1gYFopTNfVLTe1BaimcF4WylHOa5qlQHc?usp=sharing)
+[HashMap Data Structure Practice & solution: 1. Implementation of HashMap; 2. Use HashMap to implement a basic learning algorithm Markov Chain.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa6-Markov-starter-main)
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
@@ -242,7 +242,7 @@ PAE: print all elements.
 
 <img src="files/tree/PAE.png" width=600></img>
 
-[BST Data Structure Practice & solution: 1. Implement a BST class including all its common methods; 2. Implementing the Frequency Filter to order and filter data from a text file.](https://drive.google.com/drive/folders/1kBqI5PClAmX43StU8xiOrVfAusp_8iIL?usp=sharing)
+[BST Data Structure Practice & solution: 1. Implement a BST class including all its common methods; 2. Implementing the Frequency Filter to order and filter data from a text file.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa7-Trees-starter-main)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
@@ -251,6 +251,26 @@ PAE: print all elements.
 # <span id="7">7. Heap </span>
 
 
-[BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://drive.google.com/drive/folders/1bGICgLJverAGK5N559pShLZv70e8-ALE?usp=sharing)
+Definition: A tree is a ***complete tree*** if every level but the last level is completely full, and the last level has its nodes all the way to **left**. 
+
+Property: A complete tree's size and height are related by: *height ~ log(size).*
+
+Definition: A tree is ***max/min heap order*** if every node's key is **greater/less** than or equal to all its childrens' keys.
+
+Definition: A ***max/min heap*** is a **complete tree** that is **max/min heap order**. 
+
+Heap keys don't need to be unique. 
+
+<img src="files/heap/venn.png" width=400></img>
+
+|List|Queue|Stack|Map|PriorityQueue|
+|-|-|-|-|-|
+|List<E> {</br>void add(E e); </br>E get(int index); </br>} |Queue<E>{</br> void enqueue(E e); </br> E dequeue();</br>}|Stack<E> {</br> void push(E e); </br> E pop();</br>}|Map<K, V><E> {</br> void set(K k, V v); </br> V get(K k);</br>}|PriorityQueue<K, V><E> {</br> void set(K k, V v); </br> V pull();</br>Entry<K, V> pull()*;</br>}|
+|<td colspan=5 style="text-align:right"> * return and remove max/largest key.</td>|
+||
+
+
+
+[BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa8-Heaps-starter-main)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

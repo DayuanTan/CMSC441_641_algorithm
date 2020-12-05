@@ -13,7 +13,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ### [4.1.2 Searching Algorithms: BFS, DFS](#412)
 ## [5. HashMap](#5) and learning alg Markov Chain
 ## [6. Tree, BST  ](#6) and Frequency Filter
-## [7. Heap ](#6) and Buffer
+## [7. Heap ](#7) and Priority Queue, HeapSort, Buffer
 
 ------
 
@@ -248,7 +248,7 @@ PAE: print all elements.
 
 
 
-# <span id="7">7. Heap </span>
+# <span id="7">7. Heap, PriorityQueue, Heap sort </span>
 
 
 Definition: A tree is a ***complete tree*** if every level but the last level is completely full, and the last level has its nodes all the way to **left**. 
@@ -259,16 +259,29 @@ Definition: A tree is ***max/min heap order*** if every node's key is **greater/
 
 Definition: A ***max/min heap*** is a **complete tree** that is **max/min heap order**. 
 
-Heap keys don't need to be unique. 
 
 <img src="files/heap/venn.png" width=400></img>
 
+### **Priority Queue:**
 |List|Queue|Stack|Map|PriorityQueue|
 |-|-|-|-|-|
-|List<E> {</br>void add(E e); </br>E get(int index); </br>} |Queue<E>{</br> void enqueue(E e); </br> E dequeue();</br>}|Stack<E> {</br> void push(E e); </br> E pop();</br>}|Map<K, V><E> {</br> void set(K k, V v); </br> V get(K k);</br>}|PriorityQueue<K, V><E> {</br> void set(K k, V v); </br> V pull();</br>Entry<K, V> pull()*;</br>}|
+|List<E> {</br>void add(E e); </br>E get(int index); </br>} |Queue<E>{</br> void enqueue(E e); </br> E dequeue();</br>}|Stack<E> {</br> void push(E e); </br> E pop();</br>}|Map<K, V><E> {</br> void set(K k, V v); </br> V get(K k);</br>}|PriorityQueue<K, V><E> {</br> void set(K k, V v); </br> V pull();</br>Entry<K, V> poll()*;</br>}|
+|||||Use heap to implement.|
 |<td colspan=5 style="text-align:right"> * return and remove max/largest key.</td>|
 ||
 
+
+Heap keys don't need to be unique. 
+
+Poll(): remove the largest node (root) by swap it with right-est node (last node in array). Then use bubble dowm, i.e. swap with largest child. **\theta(logn).**
+
+Add(): if the added node is largest, add it to the end and then use bubble up, i.e. swap with it parent if it's larger than it's parent. **\theta(logn).**
+
+
+
+### **Heap sort:**
+<img src="files/heap/heapsort.png" ></img>
+**\theta(nlogn)**
 
 
 [BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa8-Heaps-starter-main)

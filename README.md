@@ -267,7 +267,8 @@ Definition: A ***max/min heap*** is a **complete tree** that is **max/min heap o
 |-|-|-|-|-|
 |List<E> {</br>void add(E e); </br>E get(int index); </br>} |Queue<E>{</br> void enqueue(E e); </br> E dequeue();</br>}|Stack<E> {</br> void push(E e); </br> E pop();</br>}|Map<K, V><E> {</br> void set(K k, V v); </br> V get(K k);</br>}|PriorityQueue<K, V><E> {</br> void set(K k, V v); </br> V pull();</br>Entry<K, V> poll()*;</br>}|
 |||||Use heap to implement.|
-||
+||||||
+
 \* return and remove max/largest key.
 
 </br>

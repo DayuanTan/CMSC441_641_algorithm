@@ -269,7 +269,7 @@ Definition: A ***max/min heap*** is a **complete tree** that is **max/min heap o
 |||||Use heap to implement.|
 
 
-\* return and remove max/largest key.
+(\* return and remove max/largest key.)
 
 </br>
 

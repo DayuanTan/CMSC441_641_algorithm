@@ -11,14 +11,14 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 |||||||
 |-|-|-|-|-|-|
 |2.5.1 Rod Cutting | 2.5.2 Car Ownership |2.5.3 Stamp Collection |2.5.4 Waldo's World|2.5.5 Fibonacci number|2.5.6 Largest Common Subsequence|
-||
+
 
 ## [3. Greedy Alg](#3)
 
 |||||
 |-|-|-|-|
 |3.2.1 Greedy Activity Selection |3.2.2 Greedy Trick or Treat|3.2.3 Professor Gekko's skating expedition|3.2.4 Unit-length intervals|
-||
+
 
 ## [4. Graph Theory](#4)
 ### [4.1.1 Graph](#411)
@@ -26,7 +26,7 @@ This is a private place where I record my reviewing, thinking and reorganizaiton
 ||||||
 |-|-|-|-|-|
 |4.2.1 Two Coloring| 4.2.2 Reachability| 4.4.1 Alternate topology sort| 4.4.2 Semiconnected| 4.4.3 Gossip Mongering|
-||
+
 
 ## [5. HashMap](#5) and learning alg Markov Chain
 ## [6. Tree, BST  ](#6) and Frequency Filter

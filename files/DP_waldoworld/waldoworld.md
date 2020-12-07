@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.4">Return to main page.</a>
+<a href="../../README.md#2.5.4">Return to main page.</a>
 
 ### 2.5.4 Waldo's World
 
@@ -6,4 +6,4 @@
 
 
 
-<a href="../README.md#2.5.4">Return to main page.</a>
+<a href="../../README.md#2.5.4">Return to main page.</a>

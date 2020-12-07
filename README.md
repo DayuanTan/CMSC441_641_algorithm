@@ -87,17 +87,17 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 ## 2.5 Examples
-### <a href="./files/DP_rodcutting/rodcutting.md" id="2.5.1">2.5.1 Rod Cutting</a>
+#### <a href="./files/DP_rodcutting/rodcutting.md" id="2.5.1">2.5.1 Rod Cutting</a>
 
-### <a href="./files/DP_carowner/carowner.md" id="2.5.2">2.5.2 Car Ownership</a>
+#### <a href="./files/DP_carowner/carowner.md" id="2.5.2">2.5.2 Car Ownership</a>
 
-### <a href="./files/DP_stampCollection/stampColletion.md" id="2.5.3">2.5.3 Stamp Collection</a>
+#### <a href="./files/DP_stampCollection/stampColletion.md" id="2.5.3">2.5.3 Stamp Collection</a>
 
-### <a href="./files/DP_waldoworld/waldoworld.md" id="2.5.4">2.5.4 Waldo's World</a>
+#### <a href="./files/DP_waldoworld/waldoworld.md" id="2.5.4">2.5.4 Waldo's World</a>
 
-### [2.5.5 Fibonacci number](./files/DP_fibonacci/dp_fibonacci.md)
+#### [2.5.5 Fibonacci number](./files/DP_fibonacci/dp_fibonacci.md)
 
-### [2.5.6 Largest Common Subsequence](./files/DP_lcs/dp_lcs.md)
+#### [2.5.6 Largest Common Subsequence](./files/DP_lcs/dp_lcs.md)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
@@ -107,13 +107,13 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 ## 3.1 Theory
 
 ## 3.2 Examples
-### <a href="./files/Greedy_gas/Eg_GreedyActivitySelection.md" id="3.2.1">3.2.1 Greedy Activity Selection</a>
+#### <a href="./files/Greedy_gas/Eg_GreedyActivitySelection.md" id="3.2.1">3.2.1 Greedy Activity Selection</a>
  
-### <a href="./files/Greedy_tricktreat/eg_greedytricktreat.md" id="3.2.2">3.2.2 Greedy Trick or Treat</a>
+#### <a href="./files/Greedy_tricktreat/eg_greedytricktreat.md" id="3.2.2">3.2.2 Greedy Trick or Treat</a>
 
-### <a href="./files/Greedy_skating/eg_greedyskating.md" id="3.2.3">3.2.3 Professor Gekko's skating expedition</a>
+#### <a href="./files/Greedy_skating/eg_greedyskating.md" id="3.2.3">3.2.3 Professor Gekko's skating expedition</a>
 
-### <a href="./files/Greedy_unitLengthInterval/eg_unitLengthInterval.md" id="3.2.4">3.2.4 Unit-length intervals</a>
+#### <a href="./files/Greedy_unitLengthInterval/eg_unitLengthInterval.md" id="3.2.4">3.2.4 Unit-length intervals</a>
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
@@ -197,15 +197,15 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 ## 4.2 Example
-### <a href="./files/Graph_2coloring/eg_2coloring.md" id="4.2.1">4.2.1 Two Coloring</a>
-### <a href="./files/Graph_reachability/eg_reachability.md" id="4.2.2">4.2.2 Reachability</a>
+#### <a href="./files/Graph_2coloring/eg_2coloring.md" id="4.2.1">4.2.1 Two Coloring</a>
+#### <a href="./files/Graph_reachability/eg_reachability.md" id="4.2.2">4.2.2 Reachability</a>
 
 ## 4.3
 
 ## 4.4 Example
-### <a href="./files/Graph_alternateTopologySort/eg_alternateTopologySort.md" id="4.4.1">4.4.1 Alternate topology sort</a>
-### <a href="./files/Graph_semiconnected/eg_semiconnected.md" id="4.4.2">4.4.2 Semiconnected</a>
-### <a href="./files/Graph_gossipMongering/eg_gossipMongering.md" id="4.4.3">4.4.3 Gossip Mongering</a>
+#### <a href="./files/Graph_alternateTopologySort/eg_alternateTopologySort.md" id="4.4.1">4.4.1 Alternate topology sort</a>
+#### <a href="./files/Graph_semiconnected/eg_semiconnected.md" id="4.4.2">4.4.2 Semiconnected</a>
+#### <a href="./files/Graph_gossipMongering/eg_gossipMongering.md" id="4.4.3">4.4.3 Gossip Mongering</a>
 
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)

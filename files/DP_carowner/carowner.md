@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.2">Return to main page.</a>
+<a href="../../README.md#2.5.2">Return to main page.</a>
 
 ### 2.5.2 Car Ownership
 
@@ -101,4 +101,4 @@ programming algorithm. You <b>must</b> provide the following:
 
 ### ***Solution 3：***
 
-<a href="../README.md#2.5.2">Return to main page.</a>
+<a href="../../README.md#2.5.2">Return to main page.</a>

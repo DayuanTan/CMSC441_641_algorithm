@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.3">Return to main page.</a>
+<a href="../../README.md#2.5.3">Return to main page.</a>
 
 ### 2.5.3 Stamp Collection
 
@@ -79,4 +79,4 @@ programming algorithm. You <b>must</b> provide the following:
 
 
 
-<a href="../README.md#2.5.3">Return to main page.</a>
+<a href="../../README.md#2.5.3">Return to main page.</a>

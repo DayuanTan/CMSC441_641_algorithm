@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>
 
 ### 2.5.5 Fibonacci Number
 
@@ -19,4 +19,4 @@ for i = 1 ... N
 ```
 
 
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>

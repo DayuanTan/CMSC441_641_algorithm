@@ -93,7 +93,7 @@ Dynamic programming thus **uses additional memory to save computation time**; it
 
 ### <a href="./files/DP_stampCollection/stampColletion.md" id="2.5.3">2.5.3 Stamp Collection</a>
 
-### <a href="./files/DP_waldoworld/waldoWorld.md" id="2.5.4">2.5.4 Waldo's World</a>
+### <a href="./files/DP_waldoworld/waldoworld.md" id="2.5.4">2.5.4 Waldo's World</a>
 
 ### [2.5.5 Fibonacci number](./files/DP_fibonacci/dp_fibonacci.md)
 

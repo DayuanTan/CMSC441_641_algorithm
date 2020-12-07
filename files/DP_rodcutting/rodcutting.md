@@ -1,4 +1,4 @@
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>
 
 ### 2.5.1 Rod Cutting
 
@@ -75,4 +75,4 @@ for B = 1...N
 ```
 
 
-<a href="../README.md#2.5.1">Return to main page.</a>
+<a href="../../README.md#2.5.1">Return to main page.</a>

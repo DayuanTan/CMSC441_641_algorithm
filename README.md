@@ -236,7 +236,7 @@ Queue in java can be implemented using LinkedList or ArrayList. Stack in java ca
 
 
 
-[HashMap Data Structure Practice & solution: 1. Implementation of HashMap; 2. Use HashMap to implement a basic learning algorithm Markov Chain.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa6-Markov-starter-main)
+[HashMap Data Structure Practice & solution: 1. Implementation of HashMap; 2. Use HashMap to implement a basic learning algorithm Markov Chain.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa/cse12-fa20-pa6-Markov-starter-main)
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
 
@@ -259,7 +259,7 @@ PAE: print all elements.
 
 <img src="files/tree/PAE.png" width=600></img>
 
-[BST Data Structure Practice & solution: 1. Implement a BST class including all its common methods; 2. Implementing the Frequency Filter to order and filter data from a text file.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa7-Trees-starter-main)
+[BST Data Structure Practice & solution: 1. Implement a BST class including all its common methods; 2. Implementing the Frequency Filter to order and filter data from a text file.](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa/cse12-fa20-pa7-Trees-starter-main)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
 
@@ -304,6 +304,6 @@ Add(): if the added node is largest, add it to the end and then use bubble up, i
 **\theta(nlogn)**
 
 
-[BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa8-Heaps-starter-main)
+[BST Data Structure Practice & solution: 1. Implement a Heap; 2. How to apply heap to file data; Implement Buffer. ](https://github.com/DayuanTan/UCSD/tree/master/cse12-fa20-pa/cse12-fa20-pa8-Heaps-starter-main)
 
 [<p align="right"> GO TO TOP.</p>](#CMSC441--641-Algorithm)
